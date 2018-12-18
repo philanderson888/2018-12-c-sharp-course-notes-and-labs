@@ -1,0 +1,7 @@
+C:\labs\Labs\Lab_04_Object\bin\Debug\Lab_04_Object.exe.config
+C:\labs\Labs\Lab_04_Object\bin\Debug\Lab_04_Object.exe
+C:\labs\Labs\Lab_04_Object\bin\Debug\Lab_04_Object.pdb
+C:\labs\Labs\Lab_04_Object\obj\Debug\Lab_04_Object.csprojAssemblyReference.cache
+C:\labs\Labs\Lab_04_Object\obj\Debug\Lab_04_Object.csproj.CoreCompileInputs.cache
+C:\labs\Labs\Lab_04_Object\obj\Debug\Lab_04_Object.exe
+C:\labs\Labs\Lab_04_Object\obj\Debug\Lab_04_Object.pdb

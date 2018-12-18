@@ -1,0 +1,7 @@
+C:\labs\Labs\Lab_15_Data_Types\bin\Debug\Lab_15_Data_Types.exe.config
+C:\labs\Labs\Lab_15_Data_Types\bin\Debug\Lab_15_Data_Types.exe
+C:\labs\Labs\Lab_15_Data_Types\bin\Debug\Lab_15_Data_Types.pdb
+C:\labs\Labs\Lab_15_Data_Types\obj\Debug\Lab_15_Data_Types.csprojAssemblyReference.cache
+C:\labs\Labs\Lab_15_Data_Types\obj\Debug\Lab_15_Data_Types.csproj.CoreCompileInputs.cache
+C:\labs\Labs\Lab_15_Data_Types\obj\Debug\Lab_15_Data_Types.exe
+C:\labs\Labs\Lab_15_Data_Types\obj\Debug\Lab_15_Data_Types.pdb

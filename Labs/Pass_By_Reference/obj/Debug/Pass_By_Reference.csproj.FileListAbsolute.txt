@@ -1,0 +1,7 @@
+C:\labs\Labs\Pass_By_Reference\bin\Debug\Pass_By_Reference.exe.config
+C:\labs\Labs\Pass_By_Reference\bin\Debug\Pass_By_Reference.exe
+C:\labs\Labs\Pass_By_Reference\bin\Debug\Pass_By_Reference.pdb
+C:\labs\Labs\Pass_By_Reference\obj\Debug\Pass_By_Reference.csprojAssemblyReference.cache
+C:\labs\Labs\Pass_By_Reference\obj\Debug\Pass_By_Reference.csproj.CoreCompileInputs.cache
+C:\labs\Labs\Pass_By_Reference\obj\Debug\Pass_By_Reference.exe
+C:\labs\Labs\Pass_By_Reference\obj\Debug\Pass_By_Reference.pdb

@@ -1,0 +1,6 @@
+C:\labs\Labs\Lab_03_Debug\bin\Debug\Lab_03_Debug.exe.config
+C:\labs\Labs\Lab_03_Debug\bin\Debug\Lab_03_Debug.exe
+C:\labs\Labs\Lab_03_Debug\bin\Debug\Lab_03_Debug.pdb
+C:\labs\Labs\Lab_03_Debug\obj\Debug\Lab_03_Debug.csproj.CoreCompileInputs.cache
+C:\labs\Labs\Lab_03_Debug\obj\Debug\Lab_03_Debug.exe
+C:\labs\Labs\Lab_03_Debug\obj\Debug\Lab_03_Debug.pdb
