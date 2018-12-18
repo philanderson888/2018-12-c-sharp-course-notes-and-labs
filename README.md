@@ -1,6 +1,12 @@
-C#
+# C# #
 
-Visual Studio
+## What this repository includes
+
+* C# Course Notes
+
+* C# Course Labs
+
+## Visual Studio
 
 .NET
 
