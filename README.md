@@ -2,9 +2,11 @@
 
 ## What this repository includes
 
-* C# Course Notes
+* [C# Course Notes](#visual-studio)
 
-* C# Course Labs
+* [Trainer Prep Notes](#trainer-prep-notes)
+
+* [C# Course Labs](/Labs)
 
 ## Visual Studio
 
