@@ -1,5 +1,7 @@
 # C# #
 
+These are the notes included from teaching a course in C# over a few days.  The notes are not very complete and were not originally intended for use on GitHub as a README, so the formatting may not be Markdown but just plain text in places.  Enjoy!
+
 ## What this repository includes
 
 * [C# Course Notes](#visual-studio)
@@ -252,7 +254,7 @@ Classes
 
 	
 
-
+```csharp
 namespace Lab_05_OOP
 {
     class Program
@@ -303,7 +305,7 @@ namespace Lab_05_OOP
     class Child : Parent {
 
     }	
-
+```
 
 Methods
 
@@ -335,17 +337,21 @@ Overloading methods
 
 Default values
 
+```csharp
 	         // set default values
         public void DoThisAlso(int x = 5, string y = "hello"){
             Console.WriteLine("x is {0} and y is {1}",x,y);
         }
+```
 
 Out Parameters
 
 	May be wish to return more than one parameter
 
+```csharp
 		MyMethod(out int x)
-	
+```
+
 OOP
 
 	Abstract Class
@@ -363,7 +369,7 @@ OOP
 
 			 abstract GreatIdea();
 
-
+```csharp
     abstract class HolidayPlans
     {
         // OK
@@ -381,11 +387,11 @@ OOP
         {
            // code here travel plans - COMPLETE!!!
         }
+```
 
+### Sealed Class
 
-Sealed Class
-
-
+```csharp
     class Mercedes { }
 
     class SClass : Mercedes { }
@@ -396,10 +402,11 @@ Sealed Class
     sealed class SLSSport : SLS { }
 
     class enthusiasticEngineer : SLS { }		
+```
 
 
-T
-PolyMorphism
+## PolyMorphism
+
 	Poly : many
 	Morph : Type
 
@@ -421,7 +428,7 @@ PolyMorphism
 
 
 
-
+```charp
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -467,7 +474,7 @@ namespace Lab_12a_Polymorphism
     }
 
 }
-
+```
 
 
 Interfaces
@@ -527,28 +534,6 @@ Summary
 
 
 
-
-
-
-
-
-
-
-
-Data types
-
-	Signed integer
-
-		32 bits
-
-			31 bits for data
-			1 bit for +/- sign
-
-	Unsigned
-
-		uint  full 32 bits 
-
-... to be continued
 
 
 
