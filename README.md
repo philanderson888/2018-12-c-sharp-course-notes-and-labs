@@ -604,7 +604,7 @@ Project Pseudocode
 
 
 
-
+<pre>
 
 Review
 Debugging 
@@ -835,7 +835,7 @@ Polymorphism	Parent : virtual
 == end of Tuesday 18 December review ==
 
 
-
+</pre>
 
 
 
@@ -845,8 +845,6 @@ Polymorphism	Parent : virtual
 Below are a second copy of the notes above which include more detail and some topics not covered in the teaching.
 
 They are in plain text format so not formatted for Markdown
-
-<pre>
 
 Resources
 
@@ -2425,7 +2423,7 @@ Project
 
 
 
-
+<pre>
 
 Random
 Access modifier : public 
@@ -2714,44 +2712,4 @@ async MyMethodAsync(){
 	await ...ReadFileAsync()
 }
 Serialiazation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </pre>
